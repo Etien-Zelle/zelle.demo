@@ -9,6 +9,7 @@ echo "code is validated"
 echo "Grant system access"
 else
 echo "DANGER"
+echo "EXCERCISE CAUTION"
 echo "Security risk, code RED"
 echo "Deny access and shut all system servers. Viberate military alarm and alert FBI"
 fi
