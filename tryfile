@@ -1,1 +1,5 @@
-This file has no content
+pin=2020
+This file has no content. 
+echo "please enter you pin"
+read -s $pin
+echo "Your pin is good"
