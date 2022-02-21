@@ -14,5 +14,6 @@ echo "Welcome $name, enjoy your time with us"
 date
 else
 echo "password invalid"
+echo "Security threat"
 echo "Deny access and stop transaction immediately"
 fi
