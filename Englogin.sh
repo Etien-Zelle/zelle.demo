@@ -12,6 +12,7 @@ then
 echo "Credentials are valid"
 echo "Grant access to server"
 echo "Good morning $username and welcome"
+date
 else
 echo "Danger, log the system. Theft eminent"
 fi
